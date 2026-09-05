@@ -1,70 +1,133 @@
-# Getting Started with Create React App
+# 🤖 atlas - Your AI Agents, Under Control
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Download Atlas](https://img.shields.io/badge/Download-Atlas-blue?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/KienNguyen1306/atlas)
 
-## Available Scripts
+## 👋 Welcome to Atlas!
 
-In the project directory, you can run:
+Atlas is a powerful tool that helps you manage all your AI coding assistants in one place. If you've ever used AI tools like Claude or Codex to help write code, you know how quickly things can get messy. Atlas brings order to the chaos by letting you track what each AI agent does, see their changes, and ask questions about your entire project – all from one simple dashboard.
 
-### `npm start`
+Think of Atlas as a mission control center for your AI helpers. Instead of juggling multiple windows and trying to remember which AI did what, Atlas gives you a bird's-eye view of everything happening in your project.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✨ What Can Atlas Do For You?
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🎯 Centralize Your AI Tools
+Atlas works with popular AI coding assistants like Claude Code, Codex, and OpenCode. Instead of switching between different apps, you can manage all your AI agents from one clean interface.
 
-### `npm test`
+### 📊 Track Every Change
+Every modification your AI agents make to your code is automatically recorded. You can see exactly what changed, when it changed, and which AI made the change. No more guessing games or wondering if something got broken.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🔍 Powerful Search
+Need to find something specific? Atlas lets you search across all your AI agents' work. Ask questions about your project and get answers instantly.
 
-### `npm run build`
+### 🔒 Self-Hosted & Private
+Your code stays on your computer. Atlas runs locally, which means your data is safe and secure. You don't have to send your project files to any external servers.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🧩 Works With Your Tools
+Atlas supports MCP (Model Context Protocol), which means it can connect with various AI tools and skills. It's designed to fit right into your existing workflow.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Getting Started - Windows Edition
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Step 1: Download Atlas
 
-### `npm run eject`
+Visit this link to download the application: [https://github.com/KienNguyen1306/atlas](https://github.com/KienNguyen1306/atlas)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+You'll find the download button on the page. Click it to start downloading Atlas to your computer.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Step 2: Install the Application
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Once the download finishes, locate the downloaded file in your "Downloads" folder. Double-click on it to begin the installation. Follow the simple on-screen instructions – it's just like installing any other program on Windows.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Step 3: Launch Atlas
 
-## Learn More
+After installation is complete, you'll find the Atlas icon on your desktop or in your Start Menu. Click it to open the application. You'll see a welcome screen that guides you through the initial setup.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Step 4: Connect Your AI Agents
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Atlas will ask you to connect your AI coding tools. Simply follow the prompts to link your Claude Code, Codex, or other agents. This takes just a few seconds and only needs to be done once.
 
-### Code Splitting
+### Step 5: Start Managing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+That's it! You're ready to use Atlas. You can now add new AI tasks, track ongoing work, and search through everything your agents do.
 
-### Analyzing the Bundle Size
+## 💡 How to Use Atlas Every Day
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### 🌅 Morning Check-In
+Start your day by opening Atlas to see what your AI agents accomplished overnight. The dashboard shows recent activity at a glance.
 
-### Making a Progressive Web App
+### 🔨 During Development
+When you're working with an AI coding assistant, keep Atlas open in the background. It automatically captures everything your agent does, so you never miss an important change.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### 🔎 Troubleshooting
+If something goes wrong with your code, use Atlas's search feature to find when and where the issue was introduced. Pinpoint problems in seconds instead of hours.
 
-### Advanced Configuration
+### 📋 Reviewing Work
+Before you accept changes from your AI agents, review them in Atlas. See exactly what was modified and decide if you want to keep or reject each change.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 🔧 System Requirements
 
-### Deployment
+Atlas is designed to run smoothly on most modern Windows computers. You should have:
+- Windows 10 or newer
+- At least 4GB of RAM
+- 1GB of free hard drive space
+- Internet connection (for downloading, though Atlas runs offline)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 🛠️ Frequently Asked Questions
 
-### `npm run build` fails to minify
+### 🤔 Is Atlas free?
+Yes, Atlas is completely free to use. You can download it and use it as much as you want without paying anything.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 🔒 Is my code safe?
+Absolutely. Atlas runs entirely on your computer. Your code, your AI agents' work, and your search history never leave your machine.
+
+### 👥 Can I use Atlas with multiple AI agents?
+Yes! That's exactly what Atlas is designed for. Connect as many AI coding assistants as you need and manage them all from one place.
+
+### 💻 Do I need to be a programmer?
+No! While Atlas is built for developers, its interface is clean and intuitive. If you can use a web browser, you can use Atlas.
+
+### 🔄 Will Atlas slow down my computer?
+No. Atlas is lightweight and efficiently designed. It runs quietly in the background without hogging your system resources.
+
+## 📈 Tips for Getting the Most Out of Atlas
+
+### 🏷️ Name Your Agents
+Give each AI agent a clear name in Atlas. Instead of "Agent 1," try "Frontend Claude" or "Backend Codex." This makes it easier to track who does what.
+
+### 📅 Review Daily
+Take five minutes each day to review your agents' work in Atlas. This builds confidence and catches issues early.
+
+### 🗃️ Organize by Project
+If you work on multiple projects, use Atlas's project view to keep everything separate. Each project has its own timeline and search history.
+
+### 🔄 Regular Checkpoints
+Use Atlas to create checkpoints in your work. If something goes wrong, you can easily see what changed between checkpoints.
+
+## 🌟 Why Atlas Rocks
+
+Atlas simplifies your AI workflow in ways you didn't know you needed:
+
+- **Save Time** - No more searching through chat logs to find what an agent did
+- **Reduce Errors** - See changes before they become problems
+- **Boost Confidence** - Know exactly what your AI tools are doing
+- **Stay Organized** - Everything in one clean, searchable place
+- **Work Smarter** - Multiple agents working together, managed like a pro
+
+## 🤝 Join the Community
+
+Atlas is growing, and we'd love to hear from you. Whether you have questions, ideas, or just want to share how you use Atlas, we're here to help.
+
+- 💬 Share your experiences with other Atlas users
+- 🐛 Report any issues you find
+- 💡 Suggest new features you'd like to see
+
+## 📥 Download Atlas Today
+
+Ready to take control of your AI agents? 
+
+[![Get Atlas Now](https://img.shields.io/badge/GET_ATLAS-NOW-green?style=for-the-badge&logo=download&color=FF5722)](https://github.com/KienNguyen1306/atlas)
+
+Visit this link to download the application, install it in minutes, and start managing all your AI coding assistants like a pro. Your future self will thank you!
+
+Remember: Atlas puts you in the driver's seat. Your AI agents work for you, and now you can see exactly what they're doing, all the time. Download Atlas now and experience the difference it makes in your development workflow!
+
+Keywords: ai, ai-coding-assistant, claude-code, codex, coding-agents, git, gitops, kilo-code, mcp, mcp-client, opencode, opencode-ai, opencode-skills, self-hosted, skills
