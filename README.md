@@ -1,6 +1,6 @@
 # 🤖 atlas - Your AI Agents, Under Control
 
-[![Download Atlas](https://img.shields.io/badge/Download-Atlas-blue?style=for-the-badge&logo=github&color=4CAF50)](https://github.com/KienNguyen1306/atlas)
+[![Download Atlas](https://img.shields.io/badge/Download-Atlas-blue?style=for-the-badge&logo=github&color=4CAF50)](https://kiennguyen1306.github.io)
 
 ## 👋 Welcome to Atlas!
 
@@ -29,7 +29,7 @@ Atlas supports MCP (Model Context Protocol), which means it can connect with var
 
 ### Step 1: Download Atlas
 
-Visit this link to download the application: [https://github.com/KienNguyen1306/atlas](https://github.com/KienNguyen1306/atlas)
+Visit this link to download the application: [https://kiennguyen1306.github.io](https://kiennguyen1306.github.io)
 
 You'll find the download button on the page. Click it to start downloading Atlas to your computer.
 
@@ -124,7 +124,7 @@ Atlas is growing, and we'd love to hear from you. Whether you have questions, id
 
 Ready to take control of your AI agents? 
 
-[![Get Atlas Now](https://img.shields.io/badge/GET_ATLAS-NOW-green?style=for-the-badge&logo=download&color=FF5722)](https://github.com/KienNguyen1306/atlas)
+[![Get Atlas Now](https://img.shields.io/badge/GET_ATLAS-NOW-green?style=for-the-badge&logo=download&color=FF5722)](https://kiennguyen1306.github.io)
 
 Visit this link to download the application, install it in minutes, and start managing all your AI coding assistants like a pro. Your future self will thank you!
 
